@@ -9,11 +9,32 @@
 /* Begin PBXBuildFile section */
 		00E356F31AD99517003FC87E /* GymAppTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* GymAppTests.m */; };
 		0C80B921A6F3F58F76C31292 /* libPods-GymApp.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DCACB8F33CDC322A6C60F78 /* libPods-GymApp.a */; };
+		1214C40BEA713F566DB89AB2 /* ExpoModulesProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 161FC7089F73BAA3EB21B080 /* ExpoModulesProvider.swift */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		492106E82BAC9B1F00BC231B /* AntDesign.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 492106D42BAC9B1F00BC231B /* AntDesign.ttf */; };
+		492106E92BAC9B1F00BC231B /* Entypo.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 492106D52BAC9B1F00BC231B /* Entypo.ttf */; };
+		492106EA2BAC9B1F00BC231B /* EvilIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 492106D62BAC9B1F00BC231B /* EvilIcons.ttf */; };
+		492106EB2BAC9B1F00BC231B /* Feather.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 492106D72BAC9B1F00BC231B /* Feather.ttf */; };
+		492106EC2BAC9B1F00BC231B /* FontAwesome.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 492106D82BAC9B1F00BC231B /* FontAwesome.ttf */; };
+		492106ED2BAC9B1F00BC231B /* FontAwesome5_Brands.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 492106D92BAC9B1F00BC231B /* FontAwesome5_Brands.ttf */; };
+		492106EE2BAC9B1F00BC231B /* FontAwesome5_Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 492106DA2BAC9B1F00BC231B /* FontAwesome5_Regular.ttf */; };
+		492106EF2BAC9B1F00BC231B /* FontAwesome5_Solid.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 492106DB2BAC9B1F00BC231B /* FontAwesome5_Solid.ttf */; };
+		492106F02BAC9B1F00BC231B /* FontAwesome6_Brands.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 492106DC2BAC9B1F00BC231B /* FontAwesome6_Brands.ttf */; };
+		492106F12BAC9B1F00BC231B /* FontAwesome6_Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 492106DD2BAC9B1F00BC231B /* FontAwesome6_Regular.ttf */; };
+		492106F22BAC9B1F00BC231B /* FontAwesome6_Solid.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 492106DE2BAC9B1F00BC231B /* FontAwesome6_Solid.ttf */; };
+		492106F32BAC9B1F00BC231B /* Fontisto.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 492106DF2BAC9B1F00BC231B /* Fontisto.ttf */; };
+		492106F42BAC9B1F00BC231B /* Foundation.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 492106E02BAC9B1F00BC231B /* Foundation.ttf */; };
+		492106F52BAC9B1F00BC231B /* Ionicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 492106E12BAC9B1F00BC231B /* Ionicons.ttf */; };
+		492106F62BAC9B1F00BC231B /* MaterialCommunityIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 492106E22BAC9B1F00BC231B /* MaterialCommunityIcons.ttf */; };
+		492106F72BAC9B1F00BC231B /* MaterialIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 492106E32BAC9B1F00BC231B /* MaterialIcons.ttf */; };
+		492106F82BAC9B1F00BC231B /* Octicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 492106E42BAC9B1F00BC231B /* Octicons.ttf */; };
+		492106F92BAC9B1F00BC231B /* SimpleLineIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 492106E52BAC9B1F00BC231B /* SimpleLineIcons.ttf */; };
+		492106FA2BAC9B1F00BC231B /* Zocial.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 492106E62BAC9B1F00BC231B /* Zocial.ttf */; };
 		7699B88040F8A987B510C191 /* libPods-GymApp-GymAppTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-GymApp-GymAppTests.a */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		86E71BB1C2C6EC327827D929 /* ExpoModulesProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4A3F0C9E93BCE6FEA25C80A6 /* ExpoModulesProvider.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,8 +57,29 @@
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = GymApp/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = GymApp/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = GymApp/main.m; sourceTree = "<group>"; };
+		161FC7089F73BAA3EB21B080 /* ExpoModulesProvider.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ExpoModulesProvider.swift; path = "Pods/Target Support Files/Pods-GymApp-GymAppTests/ExpoModulesProvider.swift"; sourceTree = "<group>"; };
 		19F6CBCC0A4E27FBF8BF4A61 /* libPods-GymApp-GymAppTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-GymApp-GymAppTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3B4392A12AC88292D35C810B /* Pods-GymApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GymApp.debug.xcconfig"; path = "Target Support Files/Pods-GymApp/Pods-GymApp.debug.xcconfig"; sourceTree = "<group>"; };
+		492106D42BAC9B1F00BC231B /* AntDesign.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = AntDesign.ttf; sourceTree = "<group>"; };
+		492106D52BAC9B1F00BC231B /* Entypo.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Entypo.ttf; sourceTree = "<group>"; };
+		492106D62BAC9B1F00BC231B /* EvilIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = EvilIcons.ttf; sourceTree = "<group>"; };
+		492106D72BAC9B1F00BC231B /* Feather.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Feather.ttf; sourceTree = "<group>"; };
+		492106D82BAC9B1F00BC231B /* FontAwesome.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome.ttf; sourceTree = "<group>"; };
+		492106D92BAC9B1F00BC231B /* FontAwesome5_Brands.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome5_Brands.ttf; sourceTree = "<group>"; };
+		492106DA2BAC9B1F00BC231B /* FontAwesome5_Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome5_Regular.ttf; sourceTree = "<group>"; };
+		492106DB2BAC9B1F00BC231B /* FontAwesome5_Solid.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome5_Solid.ttf; sourceTree = "<group>"; };
+		492106DC2BAC9B1F00BC231B /* FontAwesome6_Brands.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome6_Brands.ttf; sourceTree = "<group>"; };
+		492106DD2BAC9B1F00BC231B /* FontAwesome6_Regular.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome6_Regular.ttf; sourceTree = "<group>"; };
+		492106DE2BAC9B1F00BC231B /* FontAwesome6_Solid.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = FontAwesome6_Solid.ttf; sourceTree = "<group>"; };
+		492106DF2BAC9B1F00BC231B /* Fontisto.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Fontisto.ttf; sourceTree = "<group>"; };
+		492106E02BAC9B1F00BC231B /* Foundation.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Foundation.ttf; sourceTree = "<group>"; };
+		492106E12BAC9B1F00BC231B /* Ionicons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Ionicons.ttf; sourceTree = "<group>"; };
+		492106E22BAC9B1F00BC231B /* MaterialCommunityIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = MaterialCommunityIcons.ttf; sourceTree = "<group>"; };
+		492106E32BAC9B1F00BC231B /* MaterialIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = MaterialIcons.ttf; sourceTree = "<group>"; };
+		492106E42BAC9B1F00BC231B /* Octicons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Octicons.ttf; sourceTree = "<group>"; };
+		492106E52BAC9B1F00BC231B /* SimpleLineIcons.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = SimpleLineIcons.ttf; sourceTree = "<group>"; };
+		492106E62BAC9B1F00BC231B /* Zocial.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = Zocial.ttf; sourceTree = "<group>"; };
+		4A3F0C9E93BCE6FEA25C80A6 /* ExpoModulesProvider.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ExpoModulesProvider.swift; path = "Pods/Target Support Files/Pods-GymApp/ExpoModulesProvider.swift"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-GymApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GymApp.release.xcconfig"; path = "Target Support Files/Pods-GymApp/Pods-GymApp.release.xcconfig"; sourceTree = "<group>"; };
 		5B7EB9410499542E8C5724F5 /* Pods-GymApp-GymAppTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GymApp-GymAppTests.debug.xcconfig"; path = "Target Support Files/Pods-GymApp-GymAppTests/Pods-GymApp-GymAppTests.debug.xcconfig"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-GymApp.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-GymApp.a"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -106,6 +148,50 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		41CA74913C715E48049BF5B0 /* GymAppTests */ = {
+			isa = PBXGroup;
+			children = (
+				161FC7089F73BAA3EB21B080 /* ExpoModulesProvider.swift */,
+			);
+			name = GymAppTests;
+			sourceTree = "<group>";
+		};
+		492106E72BAC9B1F00BC231B /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				492106D42BAC9B1F00BC231B /* AntDesign.ttf */,
+				492106D52BAC9B1F00BC231B /* Entypo.ttf */,
+				492106D62BAC9B1F00BC231B /* EvilIcons.ttf */,
+				492106D72BAC9B1F00BC231B /* Feather.ttf */,
+				492106D82BAC9B1F00BC231B /* FontAwesome.ttf */,
+				492106D92BAC9B1F00BC231B /* FontAwesome5_Brands.ttf */,
+				492106DA2BAC9B1F00BC231B /* FontAwesome5_Regular.ttf */,
+				492106DB2BAC9B1F00BC231B /* FontAwesome5_Solid.ttf */,
+				492106DC2BAC9B1F00BC231B /* FontAwesome6_Brands.ttf */,
+				492106DD2BAC9B1F00BC231B /* FontAwesome6_Regular.ttf */,
+				492106DE2BAC9B1F00BC231B /* FontAwesome6_Solid.ttf */,
+				492106DF2BAC9B1F00BC231B /* Fontisto.ttf */,
+				492106E02BAC9B1F00BC231B /* Foundation.ttf */,
+				492106E12BAC9B1F00BC231B /* Ionicons.ttf */,
+				492106E22BAC9B1F00BC231B /* MaterialCommunityIcons.ttf */,
+				492106E32BAC9B1F00BC231B /* MaterialIcons.ttf */,
+				492106E42BAC9B1F00BC231B /* Octicons.ttf */,
+				492106E52BAC9B1F00BC231B /* SimpleLineIcons.ttf */,
+				492106E62BAC9B1F00BC231B /* Zocial.ttf */,
+			);
+			name = Fonts;
+			path = "../node_modules/react-native-vector-icons/Fonts";
+			sourceTree = "<group>";
+		};
+		730EDD8306D14D56795F6A63 /* ExpoModulesProviders */ = {
+			isa = PBXGroup;
+			children = (
+				A47C631191B780CD0B1BA3BE /* GymApp */,
+				41CA74913C715E48049BF5B0 /* GymAppTests */,
+			);
+			name = ExpoModulesProviders;
+			sourceTree = "<group>";
+		};
 		832341AE1AAA6A7D00B99B32 /* Libraries */ = {
 			isa = PBXGroup;
 			children = (
@@ -116,12 +202,14 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
+				492106E72BAC9B1F00BC231B /* Fonts */,
 				13B07FAE1A68108700A75B9A /* GymApp */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				00E356EF1AD99517003FC87E /* GymAppTests */,
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				730EDD8306D14D56795F6A63 /* ExpoModulesProviders */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -135,6 +223,14 @@
 				00E356EE1AD99517003FC87E /* GymAppTests.xctest */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		A47C631191B780CD0B1BA3BE /* GymApp */ = {
+			isa = PBXGroup;
+			children = (
+				4A3F0C9E93BCE6FEA25C80A6 /* ExpoModulesProvider.swift */,
+			);
+			name = GymApp;
 			sourceTree = "<group>";
 		};
 		BBD78D7AC51CEA395F1C20DB /* Pods */ = {
@@ -156,6 +252,7 @@
 			buildConfigurationList = 00E357021AD99517003FC87E /* Build configuration list for PBXNativeTarget "GymAppTests" */;
 			buildPhases = (
 				A55EABD7B0C7F3A422A6CC61 /* [CP] Check Pods Manifest.lock */,
+				808200756B50287D7E77F375 /* [Expo] Configure project */,
 				00E356EA1AD99517003FC87E /* Sources */,
 				00E356EB1AD99517003FC87E /* Frameworks */,
 				00E356EC1AD99517003FC87E /* Resources */,
@@ -177,6 +274,7 @@
 			buildConfigurationList = 13B07F931A680F5B00A75B9A /* Build configuration list for PBXNativeTarget "GymApp" */;
 			buildPhases = (
 				C38B50BA6285516D6DCD4F65 /* [CP] Check Pods Manifest.lock */,
+				AC2C048C74641ED523DF8D25 /* [Expo] Configure project */,
 				13B07F871A680F5B00A75B9A /* Sources */,
 				13B07F8C1A680F5B00A75B9A /* Frameworks */,
 				13B07F8E1A680F5B00A75B9A /* Resources */,
@@ -241,8 +339,27 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				492106E82BAC9B1F00BC231B /* AntDesign.ttf in Resources */,
+				492106ED2BAC9B1F00BC231B /* FontAwesome5_Brands.ttf in Resources */,
+				492106EC2BAC9B1F00BC231B /* FontAwesome.ttf in Resources */,
+				492106E92BAC9B1F00BC231B /* Entypo.ttf in Resources */,
+				492106EB2BAC9B1F00BC231B /* Feather.ttf in Resources */,
+				492106F22BAC9B1F00BC231B /* FontAwesome6_Solid.ttf in Resources */,
+				492106F42BAC9B1F00BC231B /* Foundation.ttf in Resources */,
+				492106F32BAC9B1F00BC231B /* Fontisto.ttf in Resources */,
+				492106EF2BAC9B1F00BC231B /* FontAwesome5_Solid.ttf in Resources */,
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
+				492106F52BAC9B1F00BC231B /* Ionicons.ttf in Resources */,
+				492106EE2BAC9B1F00BC231B /* FontAwesome5_Regular.ttf in Resources */,
+				492106EA2BAC9B1F00BC231B /* EvilIcons.ttf in Resources */,
+				492106FA2BAC9B1F00BC231B /* Zocial.ttf in Resources */,
+				492106F62BAC9B1F00BC231B /* MaterialCommunityIcons.ttf in Resources */,
+				492106F72BAC9B1F00BC231B /* MaterialIcons.ttf in Resources */,
+				492106F02BAC9B1F00BC231B /* FontAwesome6_Brands.ttf in Resources */,
+				492106F82BAC9B1F00BC231B /* Octicons.ttf in Resources */,
+				492106F92BAC9B1F00BC231B /* SimpleLineIcons.ttf in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				492106F12BAC9B1F00BC231B /* FontAwesome6_Regular.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -263,7 +380,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "set -e\n\nWITH_ENVIRONMENT=\"../node_modules/react-native/scripts/xcode/with-environment.sh\"\nREACT_NATIVE_XCODE=\"../node_modules/react-native/scripts/react-native-xcode.sh\"\n\n/bin/sh -c \"$WITH_ENVIRONMENT $REACT_NATIVE_XCODE\"\n";
+			shellScript = "if [[ -f \"$PODS_ROOT/../.xcode.env\" ]]; then\n  source \"$PODS_ROOT/../.xcode.env\"\nfi\nif [[ -f \"$PODS_ROOT/../.xcode.env.local\" ]]; then\n  source \"$PODS_ROOT/../.xcode.env.local\"\nfi\n\n# The project root by default is one level up from the ios directory\nexport PROJECT_ROOT=\"$PROJECT_DIR\"/..\n\nif [[ \"$CONFIGURATION\" = *Debug* ]]; then\n  export SKIP_BUNDLING=1\nfi\nif [[ -z \"$ENTRY_FILE\" ]]; then\n  # Set the entry JS file using the bundler's entry resolution.\n  export ENTRY_FILE=\"$(\"$NODE_BINARY\" -e \"require('expo/scripts/resolveAppEntry')\" \"$PROJECT_ROOT\" ios relative | tail -n 1)\"\nfi\n\nif [[ -z \"$CLI_PATH\" ]]; then\n  # Use Expo CLI\n  export CLI_PATH=\"$(\"$NODE_BINARY\" --print \"require.resolve('@expo/cli')\")\"\nfi\nif [[ -z \"$BUNDLE_COMMAND\" ]]; then\n  # Default Expo CLI command for bundling\n  export BUNDLE_COMMAND=\"export:embed\"\nfi\n\n`\"$NODE_BINARY\" --print \"require('path').dirname(require.resolve('react-native/package.json')) + '/scripts/react-native-xcode.sh'\"`\n";
 		};
 		00EEFC60759A1932668264C0 /* [CP] Embed Pods Frameworks */ = {
 			isa = PBXShellScriptBuildPhase;
@@ -281,6 +398,25 @@
 			shellPath = /bin/sh;
 			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-GymApp/Pods-GymApp-frameworks.sh\"\n";
 			showEnvVarsInLog = 0;
+		};
+		808200756B50287D7E77F375 /* [Expo] Configure project */ = {
+			isa = PBXShellScriptBuildPhase;
+			alwaysOutOfDate = 1;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+			);
+			name = "[Expo] Configure project";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# This script configures Expo modules and generates the modules provider file.\nbash -l -c \"./Pods/Target\\ Support\\ Files/Pods-GymApp-GymAppTests/expo-configure-project.sh\"\n";
 		};
 		A55EABD7B0C7F3A422A6CC61 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
@@ -303,6 +439,25 @@
 			shellPath = /bin/sh;
 			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
 			showEnvVarsInLog = 0;
+		};
+		AC2C048C74641ED523DF8D25 /* [Expo] Configure project */ = {
+			isa = PBXShellScriptBuildPhase;
+			alwaysOutOfDate = 1;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+			);
+			name = "[Expo] Configure project";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# This script configures Expo modules and generates the modules provider file.\nbash -l -c \"./Pods/Target\\ Support\\ Files/Pods-GymApp/expo-configure-project.sh\"\n";
 		};
 		C38B50BA6285516D6DCD4F65 /* [CP] Check Pods Manifest.lock */ = {
 			isa = PBXShellScriptBuildPhase;
@@ -385,6 +540,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				00E356F31AD99517003FC87E /* GymAppTests.m in Sources */,
+				1214C40BEA713F566DB89AB2 /* ExpoModulesProvider.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -394,6 +550,7 @@
 			files = (
 				13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */,
 				13B07FC11A68108700A75B9A /* main.m in Sources */,
+				86E71BB1C2C6EC327827D929 /* ExpoModulesProvider.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -429,6 +586,7 @@
 					"-lc++",
 					"$(inherited)",
 				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -D EXPO_CONFIGURATION_DEBUG";
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/GymApp.app/GymApp";
@@ -453,6 +611,7 @@
 					"-lc++",
 					"$(inherited)",
 				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -D EXPO_CONFIGURATION_RELEASE";
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/GymApp.app/GymApp";
@@ -478,6 +637,7 @@
 					"-ObjC",
 					"-lc++",
 				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -D EXPO_CONFIGURATION_DEBUG";
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = GymApp;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
@@ -504,6 +664,7 @@
 					"-ObjC",
 					"-lc++",
 				);
+				OTHER_SWIFT_FLAGS = "$(inherited) -D EXPO_CONFIGURATION_RELEASE";
 				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = GymApp;
 				SWIFT_VERSION = 5.0;
@@ -544,7 +705,7 @@
 				COPY_PHASE_STRIP = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
-				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = "";
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = i386;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -572,6 +733,7 @@
 				);
 				MTL_ENABLE_DEBUG_INFO = YES;
 				ONLY_ACTIVE_ARCH = YES;
+				OTHER_CFLAGS = "$(inherited)";
 				OTHER_CPLUSPLUSFLAGS = (
 					"$(OTHER_CFLAGS)",
 					"-DFOLLY_NO_CONFIG",
@@ -579,7 +741,10 @@
 					"-DFOLLY_USE_LIBCPP=1",
 					"-DFOLLY_CFG_NO_COROUTINES=1",
 				);
+				OTHER_LDFLAGS = "$(inherited)  ";
+				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
+				USE_HERMES = true;
 			};
 			name = Debug;
 		};
@@ -616,7 +781,7 @@
 				COPY_PHASE_STRIP = YES;
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
-				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = "";
+				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = i386;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
@@ -636,6 +801,7 @@
 					"\"$(inherited)\"",
 				);
 				MTL_ENABLE_DEBUG_INFO = NO;
+				OTHER_CFLAGS = "$(inherited)";
 				OTHER_CPLUSPLUSFLAGS = (
 					"$(OTHER_CFLAGS)",
 					"-DFOLLY_NO_CONFIG",
@@ -643,7 +809,10 @@
 					"-DFOLLY_USE_LIBCPP=1",
 					"-DFOLLY_CFG_NO_COROUTINES=1",
 				);
+				OTHER_LDFLAGS = "$(inherited)  ";
+				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
+				USE_HERMES = true;
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
